@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vputos76
 - 🌱 I’m currently learning Python, MATLAB, and a bit of Arduino
-- 📫 How to reach me: vputos76@gmail.com
+- 📫 How to reach me:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I know 3 different instruments! I play piano, flute, and saxophone. I also tried to learn trombone one summer, but it was not meant to be...
 
