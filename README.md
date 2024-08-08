@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vputos76
-- 🌱 I’m currently learning Python, MATLAB, and a bit of Arduino
+- 🌱 I’m currently learning Python, MATLAB, and a bit of Arduino, HTML, CSS, and C
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I know 3 different instruments! I play piano, flute, and saxophone. I also tried to learn trombone one summer, but it was not meant to be...
 - 
